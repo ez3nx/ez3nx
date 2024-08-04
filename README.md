@@ -47,7 +47,7 @@
 
 ### More of me :
 <p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/ez3nxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ez3nxx" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ez3nxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ez3nxx" height="30" width="40" /></a>
 <a href="https://instagram.com/ez3nx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ez3nx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ez3nxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ez3nxx" height="30" width="40" /></a>
 </p>
