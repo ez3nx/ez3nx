@@ -18,7 +18,8 @@
 ![](https://img.shields.io/badge/Numpy-informational?style=flat&logo=numpy&color=3C5186)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&color=3C5186)
 ![](https://img.shields.io/badge/Scipy-informational?style=flat&logo=scipy&color=3C5186)
-![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&color=3C5186) <br>
+![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&color=3C5186)
+![](https://img.shields.io/badge/Polars-informational?style=flat&logo=polars&logoColor=white&color=3C5186) <br>
 ![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=seaborn&color=3C5186)
 ![](https://img.shields.io/badge/Matplotlib-informational?style=flat&color=3C5186)
 
