@@ -25,7 +25,9 @@
 
 ### ML / DL ⚛:
 ![Sklearn](https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch) <br>
+![HuggingFace](https://img.shields.io/badge/huggingface-black?style=for-the-badge&logo=huggingface)
+
 
 
 ### BigData stack 🐘: 
@@ -38,13 +40,14 @@
 ### Other:
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=orange)
-![Confluence](https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=blue) <br>
+![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=blue)
+![BitBucket](https://img.shields.io/badge/BitBucket-black?style=for-the-badge&logo=BitBucket&logoColor=blue)
 
 ### IDE:
-![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter) <br>
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) <br>
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### More of me :
 <p align="left">
